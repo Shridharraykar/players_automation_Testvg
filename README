@@ -8,3 +8,7 @@
    Language used : Java,
     Framework : TestNG
     Json placed under resource folder --> reading it from JSON by using Object mapper
+
+Instruction to execute:
+    Right click on the IplTeamTest select Run as IplTeamTest
+    2 test case will get passed.
